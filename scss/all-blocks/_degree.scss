@@ -1,0 +1,67 @@
+.degree__heading {
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+    margin-bottom: 80px;
+      
+}
+.degree__list {
+    list-style-type: none;
+    display: flex;
+    align-items: flex-start;
+}
+.degree__ilem {
+    width: 380px;
+}
+.degree__icon-line {
+    display: flex;
+    align-items: center;
+    margin-bottom: 67px;
+    
+}
+.degree__circle {
+    display: inline block;
+    width: 31px;
+    height: 31px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50%;
+    border: 2px solid #0E8784;
+
+}
+.degree__line {
+    display: inline-block;
+    border: 2px solid #FDD6BA;
+    background-color: #FDD6BA;
+    width: 100px;
+    height: 4px;
+    flex-grow: 1;
+}
+.degree__number {
+    font-family: 'Fraunces';
+    width: 90px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;  
+}
+.degree__inner-heading {
+    font-family: 'Fraunces';
+    width: 255px;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+
+.degree__text {
+    font-family: 'Barlow';
+    width: 285px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    margin-bottom: 64px;
+      
+}

@@ -1,0 +1,49 @@
+
+.footer{
+    margin-top: 200px;
+    margin-bottom: 135px;
+}
+
+
+.footer__container {
+    background-color: #282F38;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 47px 85px 49px 85px; 
+}
+.footer__lift-site {
+  
+}
+.footer__logo-link {
+    margin-right: 103px;
+}
+.footer__image{
+    width: 236px;
+    height: 26px;
+    vertical-align: middle; 
+} 
+.footer__list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.footer__item {
+    list-style-type: none;
+    margin-right: 16px;
+    margin-left: 16px;
+}
+.footer__link {
+    font-family: 'Barlow';
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px; 
+    color: #83888F;
+}
+
+
+.footer__right-image{
+   margin-left: 24px;
+   margin-right: 24px;
+}

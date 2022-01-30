@@ -1,0 +1,34 @@
+.collection {
+    margin-bottom: 180px;
+}
+
+.collection__container {
+    background-image: url("./../images/bg-img-collection.svg");
+    background-repeat: no-repeat;
+    background-position: calc(50%) 0; 
+    background-position: calc(50%) -62px;
+    padding-top: 62px;  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.collection__heading {
+    width: 255px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;  
+    text-align: center;
+}
+.collection__text {
+    width: 255px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    font-family: 'Barlow';
+    text-align: center;
+   
+}
